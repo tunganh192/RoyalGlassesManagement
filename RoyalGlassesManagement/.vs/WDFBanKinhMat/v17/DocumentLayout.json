@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GITHUB\\BTL TR\u1EF0C QUAN\\QuanLiKinhMat\\RoyalGlassesManagement\\RoyalGlassesManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E74A6C14-0FA7-4AC5-9D5E-97950222164D}|WDFBanKinhMat\\WDFBanKinhMat.csproj|D:\\GITHUB\\BTL TR\u1EF0C QUAN\\QuanLiKinhMat\\RoyalGlassesManagement\\RoyalGlassesManagement\\wdfbankinhmat\\frm_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E74A6C14-0FA7-4AC5-9D5E-97950222164D}|WDFBanKinhMat\\WDFBanKinhMat.csproj|solutionrelative:wdfbankinhmat\\frm_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74A6C14-0FA7-4AC5-9D5E-97950222164D}|WDFBanKinhMat\\WDFBanKinhMat.csproj|D:\\GITHUB\\BTL TR\u1EF0C QUAN\\QuanLiKinhMat\\RoyalGlassesManagement\\RoyalGlassesManagement\\wdfbankinhmat\\frm_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E74A6C14-0FA7-4AC5-9D5E-97950222164D}|WDFBanKinhMat\\WDFBanKinhMat.csproj|solutionrelative:wdfbankinhmat\\frm_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74A6C14-0FA7-4AC5-9D5E-97950222164D}|WDFBanKinhMat\\WDFBanKinhMat.csproj|d:\\github\\btl tr\u1EF1c quan\\quanlikinhmat\\royalglassesmanagement\\royalglassesmanagement\\wdfbankinhmat\\frm_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E74A6C14-0FA7-4AC5-9D5E-97950222164D}|WDFBanKinhMat\\WDFBanKinhMat.csproj|solutionrelative:wdfbankinhmat\\frm_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74A6C14-0FA7-4AC5-9D5E-97950222164D}|WDFBanKinhMat\\WDFBanKinhMat.csproj|D:\\GITHUB\\BTL TR\u1EF0C QUAN\\QuanLiKinhMat\\RoyalGlassesManagement\\RoyalGlassesManagement\\wdfbankinhmat\\frm_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E74A6C14-0FA7-4AC5-9D5E-97950222164D}|WDFBanKinhMat\\WDFBanKinhMat.csproj|solutionrelative:wdfbankinhmat\\frm_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74A6C14-0FA7-4AC5-9D5E-97950222164D}|WDFBanKinhMat\\WDFBanKinhMat.csproj|D:\\GITHUB\\BTL TR\u1EF0C QUAN\\QuanLiKinhMat\\RoyalGlassesManagement\\RoyalGlassesManagement\\wdfbankinhmat\\classes\\dataconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E74A6C14-0FA7-4AC5-9D5E-97950222164D}|WDFBanKinhMat\\WDFBanKinhMat.csproj|solutionrelative:wdfbankinhmat\\classes\\dataconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74A6C14-0FA7-4AC5-9D5E-97950222164D}|WDFBanKinhMat\\WDFBanKinhMat.csproj|D:\\GITHUB\\BTL TR\u1EF0C QUAN\\QuanLiKinhMat\\RoyalGlassesManagement\\RoyalGlassesManagement\\wdfbankinhmat\\frm_suasanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E74A6C14-0FA7-4AC5-9D5E-97950222164D}|WDFBanKinhMat\\WDFBanKinhMat.csproj|solutionrelative:wdfbankinhmat\\frm_suasanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74A6C14-0FA7-4AC5-9D5E-97950222164D}|WDFBanKinhMat\\WDFBanKinhMat.csproj|D:\\GITHUB\\BTL TR\u1EF0C QUAN\\QuanLiKinhMat\\RoyalGlassesManagement\\RoyalGlassesManagement\\wdfbankinhmat\\frm_sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E74A6C14-0FA7-4AC5-9D5E-97950222164D}|WDFBanKinhMat\\WDFBanKinhMat.csproj|solutionrelative:wdfbankinhmat\\frm_sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74A6C14-0FA7-4AC5-9D5E-97950222164D}|WDFBanKinhMat\\WDFBanKinhMat.csproj|D:\\GITHUB\\BTL TR\u1EF0C QUAN\\QuanLiKinhMat\\RoyalGlassesManagement\\RoyalGlassesManagement\\wdfbankinhmat\\frm_sanpham.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E74A6C14-0FA7-4AC5-9D5E-97950222164D}|WDFBanKinhMat\\WDFBanKinhMat.csproj|solutionrelative:wdfbankinhmat\\frm_sanpham.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74A6C14-0FA7-4AC5-9D5E-97950222164D}|WDFBanKinhMat\\WDFBanKinhMat.csproj|D:\\GITHUB\\BTL TR\u1EF0C QUAN\\QuanLiKinhMat\\RoyalGlassesManagement\\RoyalGlassesManagement\\wdfbankinhmat\\frm_sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E74A6C14-0FA7-4AC5-9D5E-97950222164D}|WDFBanKinhMat\\WDFBanKinhMat.csproj|solutionrelative:wdfbankinhmat\\frm_sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74A6C14-0FA7-4AC5-9D5E-97950222164D}|WDFBanKinhMat\\WDFBanKinhMat.csproj|D:\\GITHUB\\BTL TR\u1EF0C QUAN\\QuanLiKinhMat\\RoyalGlassesManagement\\RoyalGlassesManagement\\wdfbankinhmat\\frm_thongtinhoadonban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E74A6C14-0FA7-4AC5-9D5E-97950222164D}|WDFBanKinhMat\\WDFBanKinhMat.csproj|solutionrelative:wdfbankinhmat\\frm_thongtinhoadonban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74A6C14-0FA7-4AC5-9D5E-97950222164D}|WDFBanKinhMat\\WDFBanKinhMat.csproj|D:\\GITHUB\\BTL TR\u1EF0C QUAN\\QuanLiKinhMat\\RoyalGlassesManagement\\RoyalGlassesManagement\\wdfbankinhmat\\frm_thongtinhoadonban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E74A6C14-0FA7-4AC5-9D5E-97950222164D}|WDFBanKinhMat\\WDFBanKinhMat.csproj|solutionrelative:wdfbankinhmat\\frm_thongtinhoadonban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frm_Menu.cs [Design]",
+              "DocumentMoniker": "D:\\GITHUB\\BTL TR\u1EF0C QUAN\\QuanLiKinhMat\\RoyalGlassesManagement\\RoyalGlassesManagement\\WDFBanKinhMat\\frm_Menu.cs",
+              "RelativeDocumentMoniker": "WDFBanKinhMat\\frm_Menu.cs",
+              "ToolTip": "D:\\GITHUB\\BTL TR\u1EF0C QUAN\\QuanLiKinhMat\\RoyalGlassesManagement\\RoyalGlassesManagement\\WDFBanKinhMat\\frm_Menu.cs [Design]",
+              "RelativeToolTip": "WDFBanKinhMat\\frm_Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T15:24:58.611Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frm_SanPham.cs [Design]",
+              "DocumentMoniker": "D:\\GITHUB\\BTL TR\u1EF0C QUAN\\QuanLiKinhMat\\RoyalGlassesManagement\\RoyalGlassesManagement\\WDFBanKinhMat\\frm_SanPham.cs",
+              "RelativeDocumentMoniker": "WDFBanKinhMat\\frm_SanPham.cs",
+              "ToolTip": "D:\\GITHUB\\BTL TR\u1EF0C QUAN\\QuanLiKinhMat\\RoyalGlassesManagement\\RoyalGlassesManagement\\WDFBanKinhMat\\frm_SanPham.cs [Design]",
+              "RelativeToolTip": "WDFBanKinhMat\\frm_SanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T14:40:59.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frm_SanPham.cs",
+              "DocumentMoniker": "D:\\GITHUB\\BTL TR\u1EF0C QUAN\\QuanLiKinhMat\\RoyalGlassesManagement\\RoyalGlassesManagement\\WDFBanKinhMat\\frm_SanPham.cs",
+              "RelativeDocumentMoniker": "WDFBanKinhMat\\frm_SanPham.cs",
+              "ToolTip": "D:\\GITHUB\\BTL TR\u1EF0C QUAN\\QuanLiKinhMat\\RoyalGlassesManagement\\RoyalGlassesManagement\\WDFBanKinhMat\\frm_SanPham.cs",
+              "RelativeToolTip": "WDFBanKinhMat\\frm_SanPham.cs",
+              "ViewState": "AgIAAPQBAAAAAAAAAAAcwAMCAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T14:36:35.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataConnect.cs",
+              "DocumentMoniker": "D:\\GITHUB\\BTL TR\u1EF0C QUAN\\QuanLiKinhMat\\RoyalGlassesManagement\\RoyalGlassesManagement\\WDFBanKinhMat\\Classes\\DataConnect.cs",
+              "RelativeDocumentMoniker": "WDFBanKinhMat\\Classes\\DataConnect.cs",
+              "ToolTip": "D:\\GITHUB\\BTL TR\u1EF0C QUAN\\QuanLiKinhMat\\RoyalGlassesManagement\\RoyalGlassesManagement\\WDFBanKinhMat\\Classes\\DataConnect.cs",
+              "RelativeToolTip": "WDFBanKinhMat\\Classes\\DataConnect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T14:31:52.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_DangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\GITHUB\\BTL TR\u1EF0C QUAN\\QuanLiKinhMat\\RoyalGlassesManagement\\RoyalGlassesManagement\\WDFBanKinhMat\\frm_DangNhap.cs",
+              "RelativeDocumentMoniker": "WDFBanKinhMat\\frm_DangNhap.cs",
+              "ToolTip": "D:\\GITHUB\\BTL TR\u1EF0C QUAN\\QuanLiKinhMat\\RoyalGlassesManagement\\RoyalGlassesManagement\\WDFBanKinhMat\\frm_DangNhap.cs [Design]",
+              "RelativeToolTip": "WDFBanKinhMat\\frm_DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T14:30:58.052Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm_DangNhap.cs",
+              "DocumentMoniker": "D:\\GITHUB\\BTL TR\u1EF0C QUAN\\QuanLiKinhMat\\RoyalGlassesManagement\\RoyalGlassesManagement\\WDFBanKinhMat\\frm_DangNhap.cs",
+              "RelativeDocumentMoniker": "WDFBanKinhMat\\frm_DangNhap.cs",
+              "ToolTip": "D:\\GITHUB\\BTL TR\u1EF0C QUAN\\QuanLiKinhMat\\RoyalGlassesManagement\\RoyalGlassesManagement\\WDFBanKinhMat\\frm_DangNhap.cs",
+              "RelativeToolTip": "WDFBanKinhMat\\frm_DangNhap.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowBMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T14:31:04.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frm_SuaSanPham.cs [Design]",
+              "DocumentMoniker": "D:\\GITHUB\\BTL TR\u1EF0C QUAN\\QuanLiKinhMat\\RoyalGlassesManagement\\RoyalGlassesManagement\\WDFBanKinhMat\\frm_SuaSanPham.cs",
+              "RelativeDocumentMoniker": "WDFBanKinhMat\\frm_SuaSanPham.cs",
+              "ToolTip": "D:\\GITHUB\\BTL TR\u1EF0C QUAN\\QuanLiKinhMat\\RoyalGlassesManagement\\RoyalGlassesManagement\\WDFBanKinhMat\\frm_SuaSanPham.cs [Design]",
+              "RelativeToolTip": "WDFBanKinhMat\\frm_SuaSanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T15:10:00.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frm_Menu.cs",
+              "DocumentMoniker": "D:\\GITHUB\\BTL TR\u1EF0C QUAN\\QuanLiKinhMat\\RoyalGlassesManagement\\RoyalGlassesManagement\\WDFBanKinhMat\\frm_Menu.cs",
+              "RelativeDocumentMoniker": "WDFBanKinhMat\\frm_Menu.cs",
+              "ToolTip": "D:\\GITHUB\\BTL TR\u1EF0C QUAN\\QuanLiKinhMat\\RoyalGlassesManagement\\RoyalGlassesManagement\\WDFBanKinhMat\\frm_Menu.cs",
+              "RelativeToolTip": "WDFBanKinhMat\\frm_Menu.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAUwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T15:25:49.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frm_SanPham.Designer.cs",
+              "DocumentMoniker": "D:\\GITHUB\\BTL TR\u1EF0C QUAN\\QuanLiKinhMat\\RoyalGlassesManagement\\RoyalGlassesManagement\\WDFBanKinhMat\\frm_SanPham.Designer.cs",
+              "RelativeDocumentMoniker": "WDFBanKinhMat\\frm_SanPham.Designer.cs",
+              "ToolTip": "D:\\GITHUB\\BTL TR\u1EF0C QUAN\\QuanLiKinhMat\\RoyalGlassesManagement\\RoyalGlassesManagement\\WDFBanKinhMat\\frm_SanPham.Designer.cs",
+              "RelativeToolTip": "WDFBanKinhMat\\frm_SanPham.Designer.cs",
+              "ViewState": "AgIAAKMBAAAAAAAAAAAAALABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T14:40:21.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frm_ThongTinHoaDonBan.cs",
+              "DocumentMoniker": "D:\\GITHUB\\BTL TR\u1EF0C QUAN\\QuanLiKinhMat\\RoyalGlassesManagement\\RoyalGlassesManagement\\WDFBanKinhMat\\frm_ThongTinHoaDonBan.cs",
+              "RelativeDocumentMoniker": "WDFBanKinhMat\\frm_ThongTinHoaDonBan.cs",
+              "ToolTip": "D:\\GITHUB\\BTL TR\u1EF0C QUAN\\QuanLiKinhMat\\RoyalGlassesManagement\\RoyalGlassesManagement\\WDFBanKinhMat\\frm_ThongTinHoaDonBan.cs",
+              "RelativeToolTip": "WDFBanKinhMat\\frm_ThongTinHoaDonBan.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAACMBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-27T03:31:27.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frm_ThongTinHoaDonBan.cs [Design]",
+              "DocumentMoniker": "D:\\GITHUB\\BTL TR\u1EF0C QUAN\\QuanLiKinhMat\\RoyalGlassesManagement\\RoyalGlassesManagement\\WDFBanKinhMat\\frm_ThongTinHoaDonBan.cs",
+              "RelativeDocumentMoniker": "WDFBanKinhMat\\frm_ThongTinHoaDonBan.cs",
+              "ToolTip": "D:\\GITHUB\\BTL TR\u1EF0C QUAN\\QuanLiKinhMat\\RoyalGlassesManagement\\RoyalGlassesManagement\\WDFBanKinhMat\\frm_ThongTinHoaDonBan.cs [Design]",
+              "RelativeToolTip": "WDFBanKinhMat\\frm_ThongTinHoaDonBan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-27T03:31:24.618Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 134,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
